@@ -20,6 +20,13 @@ git config --global htttp.proxy proxyaddress
 git config --global htttps.proxy proxyaddress
 
 
+
+sowtware team
+============
+
+memberA
+memberb
+
 configure username and passward
 ===============================
 
